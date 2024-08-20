@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/crew-umd.github.io/static/css/main.ed983e62.css",
+    "main.js": "/crew-umd.github.io/static/js/main.82eaeb68.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/crew-umd.github.io/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/fours.png": "/crew-umd.github.io/static/media/fours.b026d910ac82e58e487d.png",
+    "static/media/funteam.JPG": "/crew-umd.github.io/static/media/funteam.199c8fb0b5d948f5ce96.JPG",
+    "static/media/ergroom.jpg": "/crew-umd.github.io/static/media/ergroom.eb92d993e273c329843a.jpg",
+    "static/media/boathouse.jpg": "/crew-umd.github.io/static/media/boathouse.7d54633a6ae15a2662a5.jpg",
+    "static/media/pairs.jpeg": "/crew-umd.github.io/static/media/pairs.e45d4f1f9f5378cc817f.jpeg",
+    "static/media/d3_champs.jpeg": "/crew-umd.github.io/static/media/d3_champs.984d83af89c3bc653389.jpeg",
+    "static/media/mainpage.png": "/crew-umd.github.io/static/media/mainpage.f20f31fc628515b77b63.png",
+    "static/media/fall24.png": "/crew-umd.github.io/static/media/fall24.aff44a70f4ffac8f2601.png",
+    "static/media/oldheads.jpg": "/crew-umd.github.io/static/media/oldheads.be26de94ec37a29d6d35.jpg",
+    "static/media/liftingboat.jpg": "/crew-umd.github.io/static/media/liftingboat.b7b7f74f57571deeebb8.jpg",
+    "static/media/instagram.png": "/crew-umd.github.io/static/media/instagram.c42937540e2bc73db363.png",
+    "static/media/mason.png": "/crew-umd.github.io/static/media/mason.8aa261ef548487feda08.png",
+    "static/media/ohio.jpg": "/crew-umd.github.io/static/media/ohio.9ab0d4ade9ddeea8e4e5.jpg",
+    "static/media/recwell.png": "/crew-umd.github.io/static/media/recwell.338ff57cf03bec93f58b.png",
+    "static/media/Maryland_logo.png": "/crew-umd.github.io/static/media/Maryland_logo.f160e8e9d604f69a1676.png",
+    "static/media/frostbite.jpg": "/crew-umd.github.io/static/media/frostbite.bf7dafaa528cfcda2b0e.jpg",
+    "static/media/schuykill.jpg": "/crew-umd.github.io/static/media/schuykill.edcc3d5b0d8317d54c92.jpg",
+    "static/media/menscrew.png": "/crew-umd.github.io/static/media/menscrew.f6cab388b17a201cac8b.png",
+    "static/media/logo.svg": "/crew-umd.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crew-umd.github.io/index.html",
+    "static/media/faq_text.txt": "/crew-umd.github.io/static/media/faq_text.77cee875c3fc01d8c84c.txt",
+    "main.ed983e62.css.map": "/crew-umd.github.io/static/css/main.ed983e62.css.map",
+    "main.82eaeb68.js.map": "/crew-umd.github.io/static/js/main.82eaeb68.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/crew-umd.github.io/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed983e62.css",
+    "static/js/main.82eaeb68.js"
+  ]
+}
